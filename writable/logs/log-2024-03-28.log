@@ -1,0 +1,97 @@
+CRITICAL - 2024-03-28 06:27:27 --> Error: Class "App\Models\Model_Latihan1" not found
+in APPPATH\Controllers\latihan1.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\latihan1->penjumlahan('4', '6')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\latihan1))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 06:38:18 --> Error: Class "CI_Controller" not found
+in APPPATH\Controllers\contoh1.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(162): include_once()
+ 2 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('contoh1/', 'get')
+ 3 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('contoh1/')
+ 4 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('contoh1/')
+ 5 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 06:51:48 --> Error: Class "CI_Controller" not found
+in APPPATH\Controllers\contoh1.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(162): include_once()
+ 2 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('contoh1/', 'get')
+ 3 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('contoh1/')
+ 4 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('contoh1/')
+ 5 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 06:52:23 --> Error: Class "CI_Controller" not found
+in APPPATH\Controllers\contoh1.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(162): include_once()
+ 2 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('contoh1/', 'get')
+ 3 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('contoh1/')
+ 4 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('contoh1/')
+ 5 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 06:52:25 --> Error: Class "CI_Controller" not found
+in APPPATH\Controllers\contoh1.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(162): include_once()
+ 2 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('contoh1/', 'get')
+ 3 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('contoh1/')
+ 4 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('contoh1/')
+ 5 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 06:53:16 --> Error: Class "BaseController" not found
+in APPPATH\Controllers\contoh1.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(162): include_once()
+ 2 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('contoh1/', 'get')
+ 3 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('contoh1/')
+ 4 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('contoh1/')
+ 5 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 06:55:34 --> Error: Class "BaseController" not found
+in APPPATH\Controllers\contoh1.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(162): include_once()
+ 2 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('contoh1/', 'get')
+ 3 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('contoh1/')
+ 4 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('contoh1/')
+ 5 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 07:02:50 --> Error: Class "CI_Controller" not found
+in APPPATH\Controllers\contoh1.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(162): include_once()
+ 2 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('contoh1/', 'get')
+ 3 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('contoh1/')
+ 4 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('contoh1/')
+ 5 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 07:05:22 --> Error: Class "CI_Controller" not found
+in APPPATH\Controllers\contoh1.php on line 2.
+ 1 SYSTEMPATH\Router\AutoRouter.php(162): include_once()
+ 2 SYSTEMPATH\Router\Router.php(515): CodeIgniter\Router\AutoRouter->getRoute('contoh1/', 'get')
+ 3 SYSTEMPATH\Router\Router.php(211): CodeIgniter\Router\Router->autoRoute('contoh1/')
+ 4 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('contoh1/')
+ 5 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
+CRITICAL - 2024-03-28 07:13:31 --> ErrorException: Cannot declare class App\Controllers\latihan1, because the name is already in use
+in APPPATH\Models\model_latihan1.php on line 6.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-28 07:13:40 --> ArgumentCountError: Too few arguments to function App\Controllers\latihan1::penjumlahan(), 0 passed in C:\xampp\htdocs\pustaka-booking\system\CodeIgniter.php on line 941 and exactly 2 expected
+in APPPATH\Controllers\latihan1.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\latihan1->penjumlahan()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\latihan1))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\pustaka-booking\\public\\index.php')
